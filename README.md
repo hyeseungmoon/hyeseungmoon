@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/hyeseungmoon/)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={hyeseungmoon})](https://solved.ac/{hyeseungmoon})
