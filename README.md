@@ -1,6 +1,10 @@
 ### Hi there 👋
+## 💼 Activities
+- Language & Intelligence Lab Undergraduate Students | 2025.06 ~
+- SOWFTWARE MAESTRO 13th | 2022.04 ~ 2022.12
+- ChAOS(Chung-ang university Algorithm Organization and Society) president | 2022.03 ~ 2023.03
 
-# 📦 Tech Stack
+## 📦 Tech Stack
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
@@ -13,10 +17,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&labelColor=555&logoColor=white"/>
 </div>
 
-<!--PyTorch-->
-
-
-# 🎈 Competitive Programming
+## 🎈 Competitive Programming
 
 I enjoy solving algorithm problems and participating in competitive programming contests.  
 Currently focusing on improving problem-solving skills and contest performance.
