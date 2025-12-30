@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## 💼 Activities
-- Language & Intelligence Lab Undergraduate Students | 2025.06 ~
+- Language & Intelligence Lab Undergraduate Students | 2025.06 ~ 2026.01
 - SOWFTWARE MAESTRO 13th | 2022.04 ~ 2022.12
 - ChAOS(Chung-ang university Algorithm Organization and Society) president | 2022.03 ~ 2023.03
 
